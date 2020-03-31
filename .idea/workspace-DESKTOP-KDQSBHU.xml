@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f403db18-91cb-4fb7-8f42-474eaee0143a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TWLJhCwAWPXUv5j8J5fvrodLsx" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Car" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FLA19488\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\play\trainedModels" />
+      <recent name="C:\Users\FLA19488\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\watch\js" />
+      <recent name="C:\Users\FLA19488\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\play\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\green\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\style" />
+      <recent name="C:\Users\green\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1" />
+      <recent name="C:\Users\FLA19488\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\play\trainedModels" />
+      <recent name="C:\Users\FLA19488\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\watch" />
+      <recent name="C:\Users\FLA19488\OneDrive - HTL Spengergasse\Programming\Web\SnakeAiV1\watch\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f403db18-91cb-4fb7-8f42-474eaee0143a" name="Default Changelist" comment="" />
+      <created>1573570834368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573570834368</updated>
+      <workItem from="1573570836445" duration="274000" />
+      <workItem from="1573571191668" duration="21398000" />
+      <workItem from="1573626745256" duration="5669000" />
+      <workItem from="1573645514464" duration="2244000" />
+      <workItem from="1573647782940" duration="2553000" />
+      <workItem from="1573661196217" duration="569000" />
+      <workItem from="1573670720756" duration="9652000" />
+      <workItem from="1573713631846" duration="5623000" />
+      <workItem from="1573725080084" duration="1455000" />
+      <workItem from="1573731923064" duration="756000" />
+      <workItem from="1574349711997" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="play/style.css">
+</head>
+<body>
+<nav>
+    <img src="images/logo.jpg" alt="brain">
+    <div class="flexContainer">
+        <a href="watch.html">
+            <div>Watch</div>
+        </a>
+        <a href="play.html">
+            <div>Play</div>
+        </a>
+    </div>
+</nav>
+<div id ="main">
+    <div id="mainWrapper">
+
+        <div id="player"></div>
+        <div id="information"></div>
+        <div id="ai"></div>
+    </div>
+    <div id="menu">
+        <form action="">
+            <input type="radio" name="ai" class="AiRadio" value="sofia"> Sofia<br>
+            <input type="radio" name="ai" class="AiRadio" value="dennis"> Dennis<br>
+            <input type="radio" name="ai" class="AiRadio" value="lenni"> Lenni<br>
+            <input type="radio" name="ai" class="AiRadio" value="cedi"> Cedi<br>
+            <input type="radio" name="ai" class="AiRadio" value="izabell"> Izabell<br>
+            <input id="start"    type="button" value="Start">
+        </form>
+    </div>
+</div>
+
+
+<script src="libraries/p5.js"></script>
+<script src="libraries/p5.sound.min.js"></script>
+<script src="libraries/p5.dom.min.js"></script>
+<script src="play/js/snake.js"></script>
+<script src="play/js/snakeGame.js"></script>
+<script src="watch/js/neuralNetwork.js"></script>
+<script src="play/js/menu.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineLite.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/plugins/CSSPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenLite.min.js" integrity="sha256-VV47uJSoHZUeiBcCs3FcBOQLMn++yeG/zqZvaUkvGZM=" crossorigin="anonymous"></script>
+</body>
+</html>
