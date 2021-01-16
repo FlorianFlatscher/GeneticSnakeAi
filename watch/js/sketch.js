@@ -23,7 +23,7 @@ function setup() {
   canP5= createCanvas(600, 600);
   canP5.parent(document.querySelector("#canvas"));
   //Dom Canvas
-  can = document.querySelector(".p5Canvas")[0];
+  can = document.querySelector("#canvas");
   can.addEventListener("click", onMousePressed);
   console.log(can);
   population = new Population(10);
